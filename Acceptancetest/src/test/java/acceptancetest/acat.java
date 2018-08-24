@@ -89,5 +89,4 @@ public class acat {
 		//driver.findElement(By.xpath("//h1[text()='JUPITER COMMUNICATION']")).isDisplayed();
 		driver.quit();
 	}
-
 }
